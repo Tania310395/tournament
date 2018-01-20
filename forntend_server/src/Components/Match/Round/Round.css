@@ -1,0 +1,22 @@
+.round{
+  width: 60%;
+}
+
+.btn {
+  margin-top: 20px;
+  background-color: orange;
+  height: 50px;
+  width: 120px;
+  padding: 5px;
+  font-size: 20px;
+  color: white;
+  border-radius: 10px;
+}
+
+.btn:hover {background-color: #3e8e41}
+
+.btn:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

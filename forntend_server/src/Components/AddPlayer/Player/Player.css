@@ -1,0 +1,18 @@
+.tablestructure{
+  border:  3px solid lightblue;
+  width:40%;
+  border-collapse:collapse;
+}
+tr{
+  line-height: 1px;
+}
+th
+{
+  height:10px;
+  width: 170px;
+  text-align:center;
+  vertical-align:center;
+  padding: 20px;
+}
+
+

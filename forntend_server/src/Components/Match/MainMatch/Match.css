@@ -1,0 +1,42 @@
+.main {
+  margin-top: 135px;
+  width: 95%;
+  height: 600px;
+  border: 5px solid black;
+  padding: 30px; 
+  background-color: black;
+  background-image: url("http://s1.1zoom.me/big0/24/Chess_Sunrises_and_sunsets_Sun_533071_1280x720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 5px 5px #888888;
+  overflow: scroll;
+}
+
+.match{
+  margin-top: 10px;
+  margin-left: 15%;
+  width: 60%;
+  border: 5px solid black;
+  padding: 30px; 
+  text-align: center;
+  background-color: black;
+  align-items: center;
+  color: white;
+  opacity: 0.8;
+}
+
+.player{
+  width: 20%;
+  padding: 10px;
+  float: left;
+}
+
+.other{
+  width: 70%;
+  padding: 10px;
+  float: right;
+}
+
+.clear{
+  clear: both;
+}

@@ -1,0 +1,23 @@
+.btn {
+  margin-top: 20px;
+  background-color: black;
+  height: 50px;
+  width: 120px;
+  padding: 5px;
+  font-size: 20px;
+  color: white;
+  border-radius: 10px;
+}
+
+.tablevalue{
+  line-height: 40px;
+}
+
+.tablevalue th
+{
+  height:10px;
+  width: 170px;
+  text-align:center;
+  vertical-align:center;
+  padding: 20px;
+}
